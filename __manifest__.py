@@ -1,18 +1,14 @@
 # -*- coding: utf-8 -*-
 
 {
-    'name': 'Sale Mining',
+    'name': 'QAQC Chemical Element',
     'version': '1.0',
     'author': 'Technoindo.com',
-    'category': 'Sales Management',
+    'category': 'Mining QAQC',
     'depends': [
-        'sale_contract',
-        'shipping',
-        'sale_qaqc',
     ],
     'data': [
-        'views/menu.xml',
-        'views/qaqc_coa.xml',
+        "views/qaqc_chemical_element.xml"
     ],
     'qweb': [
         # 'static/src/xml/cashback_templates.xml',
