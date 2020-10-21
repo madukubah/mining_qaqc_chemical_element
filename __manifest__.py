@@ -8,7 +8,9 @@
     'depends': [
     ],
     'data': [
-        "views/qaqc_chemical_element.xml"
+        "views/qaqc_chemical_element.xml",
+
+        "security/ir.model.access.csv"
     ],
     'qweb': [
         # 'static/src/xml/cashback_templates.xml',
