@@ -9,7 +9,8 @@
     ],
     'data': [
         "views/qaqc_chemical_element.xml",
-
+        "views/qaqc_density.xml",
+        
         "security/ir.model.access.csv"
     ],
     'qweb': [
